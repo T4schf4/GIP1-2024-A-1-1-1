@@ -1,3 +1,6 @@
+#include <stdio.h>
+
 int main() {
-return 200;
+    printf("Hello, World!\n");
+    return 0;
 }
